@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<a href="https://www.imdb.com/">
+        <img class="logo" src="logo.png" />   
+    </a>
+    <h1>IMDB LIST</h1>
+
+    <b class="personal-info"id='name'>Name:</b> <a id='name' href='profile.html'> Muaz Musliu</a> <br />
+	
+
+	<b class="TOP">Top ten movies:</b>
+<br />
+<table border="1">
+<tr>
+    <td>Name of Movie</td>
+     <td>Year</td>
+    <td>Score</td>
+
+</tr>
+<tr>
+    <td><a href="https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_1">1. shawshank</td>
+    <td>1994</td>
+    <td><b> 9.3/10 </b></td>
+</tr>
+<tr>
+      <td><a href="https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_2">2. The Godfather</td>
+     <td>1972</td>
+    <td><b> 9.1/10 </b></td>
+</tr>
+<tr>
+      <td><a href="https://www.imdb.com/title/tt0071562/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_3">3. The Godfather: Part II</td>
+     <td>1974</td>
+ <td><b> 9.0/10 </b></td>
+</tr>
+<tr>
+      <td><a href="https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4">4. The Dark Knight</td>
+     <td>2008</td>
+    <td> <b> 9.0/10 </b> </td>
+</tr>
+<tr>
+     <td><a href="https://www.imdb.com/title/tt0050083/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_5">5. 12 Angry Men</td>
+     <td>1957</td>
+    <td><b> 8.9/10 </b></td>
+</tr>
+<tr>
+      <td><a href="https://www.imdb.com/title/tt0108052/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_6">6. Schindler's List</td>
+     <td>1993</td>
+    <td><b> 8.9/10 </b></td>
+</tr> 
+<tr>
+      <td><a href="https://www.imdb.com/title/tt0167260/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_7">7. The Lord of the Rings: The Return of the King</td>
+     <td>2003</td>
+    <td><b> 8.9/10 </b></td>
+</tr>
+<tr>
+      <td><a href="https://www.imdb.com/title/tt0110912/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_8">8. Pulp Fiction</td>
+     <td>1994</td>
+    <td><b> 8.9/10 </b></td>
+</tr>
+<tr>
+     <td><a href="https://www.imdb.com/title/tt0060196/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_9">9. The Good, the Bad and the Ugly</td>
+     <td>1966</td>
+    <td><b> 8.8/10 </b></td>
+</tr>
+<tr>
+      <td><a href="https://www.imdb.com/title/tt0120737/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=16X64XK6EKH2RCPRAB1W&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_10">10. The Lord of the Rings: The Fellowship of the Ring</td>
+     <td>2001</td>
+    <td><b> 8.8/10 </b></td>
+</tr>
+</table>
+</body>
+</html>
